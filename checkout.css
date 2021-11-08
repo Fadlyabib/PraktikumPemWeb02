@@ -1,0 +1,82 @@
+.order{
+    float: left;
+}
+
+.ceklis{
+    width: 90px;
+}
+
+.line{
+    width: 600px;
+}
+
+.ship{
+    width: 118%;
+}
+
+.kenny{
+    width: 127%;
+}
+
+.waldo{
+    width: 127%;
+    color: blue;
+}
+
+.misha{
+    width: 127%;
+    color: blue;
+}
+
+.united{
+    width: 127%;
+    color: blue;
+}
+
+.pay{
+    width: 127%;
+}
+
+.ups{
+    width: 127%;
+}
+
+.visa{
+    width: 33px;
+}
+
+.summary{
+    float: right;
+    background-color: #BDBDBD;
+    margin-top: 65px;
+    margin-right: 400px;
+}
+
+.set{
+    border: none;
+}
+
+.sub{
+    width: 148%;
+}
+
+.ping{
+    width: 138%;
+}
+
+.est{
+    width: 132%;
+}
+
+.total{
+    width: 187%;
+}
+
+.input{
+    border-color: black;
+}
+
+.submit{
+    background-color: white;
+    color: grey;
+}
