@@ -1,0 +1,72 @@
+.gambar{
+    float: left;
+}
+
+.foto{
+    width: 250px;
+}
+
+.profil{
+    float: left;
+    margin-left: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.kategori{
+    float: right;
+    text-align: right;
+    margin-top: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.tulisan{
+    font-family: Arial, Helvetica, sans-serif;
+    float: left;
+    margin-top: 30px;
+}
+
+.konten{
+    float: left;
+    margin-top: 50px;
+}
+
+.youtube{
+    width: 360px; 
+    height: 215px; 
+}
+
+.makanan{
+    float: left;
+    margin-top: 50px;
+    margin-left: 90px;
+    text-align: center;
+}
+
+.ayambakar{
+    width: 130px;
+}
+
+.ikankakap{
+    width: 130px;
+    height: 87px;
+}
+
+.ayamsayur{
+    width: 130px;
+}
+
+.rendang{
+    width: 130px;
+}
+
+.attachments{
+    float: left;
+    margin-top: 42px;
+    margin-left: 90px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.pdf{
+    width: 15px;
+    margin-top: 5px;
+}
